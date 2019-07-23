@@ -1,2 +1,1 @@
-encoder: label encoder, one hot encoder
-model: linear regression and random forest, xgboost
+last update: 7/23/2019
